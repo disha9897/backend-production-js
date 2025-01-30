@@ -1,11 +1,16 @@
 {
-  "name": "ts-backend-production-template",
+  "name": "backend-production-js",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node",
+    "prepare": "husky"
   },
   "author": "Disha",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^15.4.3"
+  }
 }
