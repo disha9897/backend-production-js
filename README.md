@@ -1,0 +1,1 @@
+1. Commitlint besically check weather the message is in proper form or not. It describe the proper way of commiting the message.
